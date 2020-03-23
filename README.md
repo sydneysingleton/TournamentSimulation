@@ -15,7 +15,8 @@ The files I have attached are:
   
   Data: 
   - 2020_stats.csv : the stats for each team for 2020 
-  - model_data.csv : stats and game results from the past 10 years that the logistic regression is built off of
+  - model_data.csv : stats and game results from the past 10 years that the logistic regression is built off of. From a merge of data       from https://data.world/rwesterman/ncaa-basketball-games-with-outcomes-2002-2018 and 
+    https://www.sports-reference.com/cbb/seasons/2020-school-stats.html
   - Tournaments_2020.xlsx : contains 2 sheets ACC and SEC that are basically the tournament brackets in spreasheet form 
   
   Images:
